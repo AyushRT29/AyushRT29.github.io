@@ -40,13 +40,13 @@
     <td align="center" width="300">
       <h4>🌐 Portfolio</h4>
       <a href="http://ayushtamrakar.me/PortFile/" target="_blank">
-        <img src="https://img.shields.io/badge/View%20Project-00C853?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+        <img src="https://img.shields.io/badge/Visit%20Site-FF9800?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
       </a>
     </td>
     <td align="center" width="300">
       <h4>🍴 RestroPro</h4>
       <a href="https://restropro.free.nf/" target="_blank">
-        <img src="https://img.shields.io/badge/Visit%20Site-FF9800?style=for-the-badge&logo=googlechrome&logoColor=white" alt="RestroPro"/>
+        <img src="https://img.shields.io/badge/View%20Project-00C853?style=for-the-badge&logo=vercel&logoColor=white" alt="RestroPro"/>
       </a>
     </td>
     <td align="center" width="300">
