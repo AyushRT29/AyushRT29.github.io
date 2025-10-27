@@ -9,7 +9,6 @@
   Currently exploring <b>Full Stack Development</b> and contributing to open-source projects.
 </p>
 
----
 
 <h3 align="center">🌐 Connect with me</h3>
 
@@ -31,7 +30,7 @@
   </a>
 </p>
 
----
+
 
 <h3 align="center">💼 My Work</h3>
 
@@ -57,7 +56,6 @@
     </td>
   </tr>
 </table>
----
 
 <h3 align="center">💻 Languages and Tools</h3>
 
@@ -65,7 +63,7 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,python,git,github,vscode" />
 </p>
 
----
+
 
 <p align="center">
   <i>“Code. Create. Contribute.”</i>
