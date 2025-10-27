@@ -1,6 +1,7 @@
-<!-- 🌟 Basic GitHub README HTML Template 🌟 -->
 
-<h1 align="center">Hi 👋, I'm Ayush Raj</h1>
+<body style="background: linear-gradient(135deg, #0f2027, #203a43, #2c5364); color: #e0e0e0; font-family: Arial, sans-serif;">
+
+<h1 align="center">Hi 👋, I'm Ayush Raj Tamrakar</h1>
 <h3 align="center">A passionate web developer and tech enthusiast</h3>
 
 <p align="center">
@@ -30,6 +31,32 @@
   </a>
 </p>
 
+---
+
+<h3 align="center">💼 My Work</h3>
+
+<table align="center">
+  <tr>
+    <td align="center" width="300">
+      <h4>🌐 Portfolio</h4>
+      <a href="http://ayushtamrakar.me/PortFile/" target="_blank">
+        <img src="https://img.shields.io/badge/View%20Project-00C853?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+      </a>
+    </td>
+    <td align="center" width="300">
+      <h4>🍴 RestroPro</h4>
+      <a href="https://restropro.free.nf/" target="_blank">
+        <img src="https://img.shields.io/badge/Visit%20Site-FF9800?style=for-the-badge&logo=googlechrome&logoColor=white" alt="RestroPro"/>
+      </a>
+    </td>
+    <td align="center" width="300">
+      <h4>🎨 Craftique</h4>
+      <a href="https://ayushrt29.github.io/Craftique/" target="_blank">
+        <img src="https://img.shields.io/badge/Live%20Demo-6200EA?style=for-the-badge&logo=githubpages&logoColor=white" alt="Craftique"/>
+      </a>
+    </td>
+  </tr>
+</table>
 ---
 
 <h3 align="center">💻 Languages and Tools</h3>
